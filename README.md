@@ -1,4 +1,3 @@
-lawde jaisa team leader
 ```markdown
 # Handwritten Character Recognition (CRNN)
 
